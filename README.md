@@ -14,6 +14,10 @@ cd out of the dm_api directory and set the flask app to run
 
 `export FLASK_APP=dm_api`
 
+install the needed requirements
+
+`pip install flask flask-sqlalchemy`
+
 run the server
 
 `flask run`
